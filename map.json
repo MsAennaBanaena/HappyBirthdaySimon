@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.hallmark.de\/grusskarten\/"
+                 "value":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSCXrvbcOW4oig8jbJVT1fmjAflL8-vqKCNAw&usqp=CAU"
                 }],
          "type":"tilelayer",
          "visible":true,
